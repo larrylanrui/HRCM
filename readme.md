@@ -8,7 +8,7 @@
 
 **Before training this model, you need to open visdom and type the following script in the console:**
 
-pip install vidom
+pip install visdom
 
 python -m visdom.server
 
